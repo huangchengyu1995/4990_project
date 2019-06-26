@@ -24,12 +24,6 @@ The datasets are extracted from the bigquery.
 **New York Accident Data** - bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
 
 
-Contributions:
----
-
-Weiyao Fan: Feature Selection, Model Construction, Prediction\
-Chengyu Huang: Bigquery Data Extraction, Feature Selection, Prediction
-
 Website:
 ---
 
