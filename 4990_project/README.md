@@ -1,7 +1,3 @@
-# APMAE4990_Final_Project
-
-This is the repository for 4990 Final Project
-
 Introduction:
 ---
 
@@ -23,8 +19,3 @@ The datasets are extracted from the bigquery.
 **New York Weather Data** - bigquery-public-data.noaa_gsod.gsod2016\
 **New York Accident Data** - bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
 
-
-Website:
----
-
-http://s3.amazonaws.com/weiyao/weiyao.html
